@@ -10,4 +10,9 @@ How to Play
 - The first player to get 3 marks in a row (horizontally, vertically, or diagonally) wins.
 - If the board is full without any player winning, the game ends in a draw.
 
-
+Features
+---------
+Command-line interface.
+Player turn management.
+Check for win or draw conditions after each move.
+Option to restart the game after completion.
